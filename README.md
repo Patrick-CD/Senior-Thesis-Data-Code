@@ -15,4 +15,4 @@ analysis_together.py
 
 get_results.py
 
-and the final heatmaps should be stored in the file called results
+and the final heatmaps should be stored in the file called results.
